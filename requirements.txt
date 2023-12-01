@@ -3,8 +3,6 @@ numpy
 matplotlib
 psycopg2
 requests
-json
-
-
+python-donenv
 
 #-e .
