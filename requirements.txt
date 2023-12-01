@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+psycopg2
+requests
+json
+
+
+
+#-e .
